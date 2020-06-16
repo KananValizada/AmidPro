@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\AmidPro\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\Users\Administrator\source\repos\AmidPro\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\Administrator\source\repos\AmidPro\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\AmidPro\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\AmidPro\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\AmidPro\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\AmidPro\Repository\bin\Debug\netcoreapp3.1\Repository.runtimeconfig.json
+C:\Users\Administrator\source\repos\AmidPro\Repository\bin\Debug\netcoreapp3.1\Repository.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\AmidPro\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\Administrator\source\repos\AmidPro\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+C:\Users\Administrator\source\repos\AmidPro\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\Administrator\source\repos\AmidPro\Repository\obj\Debug\netcoreapp3.1\Repository.genruntimeconfig.cache
